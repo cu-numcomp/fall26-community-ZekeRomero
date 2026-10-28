@@ -1,7 +1,7 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: QauntLib
+## Software: QuantLib
 (https://github.com/lballabio/quantlib)
 
 *Write a paragraph describing what the software does and who its
@@ -36,7 +36,7 @@ encountered a problem.
 
 - [X] I have installed the software
 - [X] I have run at least one example
-- [X (Veiw Notes)] I have run the test suite
+- [X] (Veiw Notes)] I have run the test suite
 - [X] The test suite passes
 
 ### Notes/concerns/risks
